@@ -173,7 +173,7 @@ public class Server {
                 ReplyDTO replyDTO  = replyDao.saveReply(content, sender, recipient, email_id, notifyDTO.getId());                
                 if(replyDTO != null){
                      for (String user : listEmail) {
-                     recipientDao.saveRecipient(replyDTO.getId(), user, null); 
+                     recipientDao.saveRecipient(replyDTO.getId(), user, "default"); 
                       }
                     response = "Mail sent successfully";
                 }
