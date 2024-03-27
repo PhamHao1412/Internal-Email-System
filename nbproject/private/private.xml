@@ -5,8 +5,8 @@
         <group>
             <file>file:/D:/MacMail/src/macmail/DAO/EmailDAO.java</file>
             <file>file:/D:/MacMail/src/macmail/Client/frmLogin.java</file>
-            <file>file:/D:/MacMail/src/macmail/DAO/RecipientDAO.java</file>
             <file>file:/D:/MacMail/src/macmail/Client/frmEmailDetail.java</file>
+            <file>file:/D:/MacMail/src/macmail/Client/FrmMain.java</file>
             <file>file:/D:/MacMail/src/macmail/Client/frmSendEmail.java</file>
             <file>file:/D:/MacMail/src/macmail/Client/EmailClient.java</file>
             <file>file:/D:/MacMail/src/macmail/Server.java</file>
